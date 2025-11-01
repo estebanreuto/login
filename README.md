@@ -1,1 +1,3 @@
-# login
+# Start Server 
+php artisan serve
+npm run dev
